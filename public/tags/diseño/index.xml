@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diseño on Portfolio</title>
+    <link>https://localhost:1313/tags/dise%C3%B1o/</link>
+    <description>Recent content in Diseño on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://localhost:1313/tags/dise%C3%B1o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 2</title>
+      <link>https://localhost:1313/projects/proyecto-2/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://localhost:1313/projects/proyecto-2/</guid>
+      <description>&lt;h2 id=&#34;ebro-trigo-slu&#34;&gt;EBRO TRIGO SLU&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Descripción&lt;/strong&gt;:&#xA;En este proyecto desarrolle una pagina web para una prestigiosa empresa de harinas. Apliqué un enfoque artesanal tanto en el concepto como en el despliegue, un proyecto hecho con ilusion y empatia.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tecnologías utilizadas&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;JavaScript&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Enlace&lt;/strong&gt;: &lt;a href=&#34;https://jimy82.github.io/EbroTrigoSLU/#&#34;&gt;Visitar el proyecto 2&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

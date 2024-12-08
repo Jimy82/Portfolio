@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sostenibilidad on Portfolio</title>
+    <link>https://localhost:1313/tags/sostenibilidad/</link>
+    <description>Recent content in Sostenibilidad on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://localhost:1313/tags/sostenibilidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 1</title>
+      <link>https://localhost:1313/projects/proyecto-1/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://localhost:1313/projects/proyecto-1/</guid>
+      <description>&lt;h2 id=&#34;sitio-de-desarrollo-sostenible&#34;&gt;SITIO DE DESARROLLO SOSTENIBLE&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Descripción&lt;/strong&gt;:&lt;br&gt;&#xA;En este proyecto creé un sitio web orientado a la promoción del desarrollo sostenible. La página ofrece información, recursos y herramientas para concienciar sobre la importancia de la sostenibilidad, destacando prácticas cotidianas y estrategias a nivel corporativo e institucional.&lt;br&gt;&#xA;La experiencia de usuario se ha trabajado para que la navegación sea intuitiva y el contenido sea accesible, fomentando un cambio positivo a nivel social y medioambiental.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
