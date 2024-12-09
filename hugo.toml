@@ -1,0 +1,7 @@
+theme = "hugo-theme-relearn"
+
+baseURL = "https://jimy82.github.io/Portfolio/"
+languageCode = "en-us"
+title = "Portfolio"
+
+publishDir = "docs"

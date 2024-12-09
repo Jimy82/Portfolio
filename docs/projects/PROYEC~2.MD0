@@ -1,0 +1,21 @@
+---
+title: "Nombre del Proyecto"
+
+description: "Descripción breve del proyecto."
+date: 2024-11-28
+tags: ["ejemplo", "proyectos"]
+---
+
+**Enlace**: [Visitar el proyecto](https://oneonpop.com)
+## Amigo Invisible
+
+**Descripción**:  
+Este proyecto tiene como objetivo resolver de forma rapida la asignacion en el proceso del juego "Amigo Invisible". Utilicé HTML, CSS y JavaScript para lograr que de una forma rapida y sencilla se asignen las correspondientes personas en sus correspondientes amigos invisibles.
+
+**Tecnologías usadas**:  
+- HTML  
+- CSS
+- JavaScript  
+
+**Enlace**: [Visitar el proyecto](#)
+[oneonpop.com](https://oneonpop.com)

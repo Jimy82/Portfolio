@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacto :: Portfolio</title>
+    <link>http://localhost:1313/contact/index.html</link>
+    <description>¡Hablemos! Estoy disponible para proyectos freelance, consultas o cualquier tipo de colaboración interesante.&#xA;¡No dudes en ponerte en contacto!&#xA;📧 Email: jaime.frutos.perez.surio@gmail.com&#xA;🔗 LinkedIn: JaimeFrutos&#xA;🐙 GitHub: Jimy82&#xA;Si lo prefieres, también puedes escribirme directamente desde el formulario de contacto (si decides agregarlo más adelante).</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

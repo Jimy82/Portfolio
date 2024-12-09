@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bienvenido a Mi Portafolio :: Portfolio</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>Explora mis proyectos y conoce más sobre mí.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum</title>
+      <link>http://localhost:1313/curriculum/index.html</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/curriculum/index.html</guid>
+      <description>Experiencia, formación y habilidades de Jaime Frutos Pérez-Surio</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/index.html</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/contact/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/index.html</guid>
+      <description>¡Hablemos! Estoy disponible para proyectos freelance, consultas o cualquier tipo de colaboración interesante.&#xA;¡No dudes en ponerte en contacto!&#xA;📧 Email: jaime.frutos.perez.surio@gmail.com&#xA;🔗 LinkedIn: JaimeFrutos&#xA;🐙 GitHub: Jimy82&#xA;Si lo prefieres, también puedes escribirme directamente desde el formulario de contacto (si decides agregarlo más adelante).</description>
+    </item>
+    <item>
+      <title>Sobre Mí</title>
+      <link>http://localhost:1313/about/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/index.html</guid>
+      <description>¡Hola, soy Jaime! Soy un desarrollador de aplicaciones web con experiencia en Hugo. Me apasiona trabajar en proyectos nuevos y siempre busco formas de mejorar mis habilidades. Disfruto de todo el proceso de desarrollo, desde la conceptualización hasta el despliegue del producto final.&#xA;Habilidades:&#xA;Hugo PHP JavaScript MySQL HTML CSS Formación Desarrollo de Aplicaciones Web en IES Los Enlaces (Zaragoza) Administración y Finanzas en IES Miguel Catalán (Zaragoza) [Cursos o certificaciones relevantes] Experiencia He colaborado con diversos clientes en el desarrollo de páginas web, ajustándome a las necesidades específicas de cada proyecto. Me gusta mantenerme al día con las nuevas tecnologías y herramientas para mejorar continuamente la experiencia y la calidad de mis proyectos.</description>
+    </item>
+  </channel>
+</rss>
