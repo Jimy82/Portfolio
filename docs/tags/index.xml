@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags :: Portfolio</title>
-    <link>http://localhost:1313/Portfolio/tags/index.html</link>
+    <link>https://jimy82.github.io/Portfolio/tags/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimy82.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tag :: Sostenibilidad</title>
-      <link>http://localhost:1313/Portfolio/tags/sostenibilidad/index.html</link>
+      <link>https://jimy82.github.io/Portfolio/tags/sostenibilidad/index.html</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio/tags/sostenibilidad/index.html</guid>
+      <guid>https://jimy82.github.io/Portfolio/tags/sostenibilidad/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Tecnología</title>
-      <link>http://localhost:1313/Portfolio/tags/tecnolog%C3%ADa/index.html</link>
+      <link>https://jimy82.github.io/Portfolio/tags/tecnolog%C3%ADa/index.html</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio/tags/tecnolog%C3%ADa/index.html</guid>
+      <guid>https://jimy82.github.io/Portfolio/tags/tecnolog%C3%ADa/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Diseño</title>
-      <link>http://localhost:1313/Portfolio/tags/dise%C3%B1o/index.html</link>
+      <link>https://jimy82.github.io/Portfolio/tags/dise%C3%B1o/index.html</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio/tags/dise%C3%B1o/index.html</guid>
+      <guid>https://jimy82.github.io/Portfolio/tags/dise%C3%B1o/index.html</guid>
       <description></description>
     </item>
   </channel>
