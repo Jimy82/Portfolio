@@ -11,4 +11,3 @@ Estoy disponible para proyectos freelance, consultas o cualquier tipo de colabor
 🔗 **LinkedIn**: [JaimeFrutos](https://www.linkedin.com/in/jaime-frutos-p%C3%A9rez-surio-60b06961)  
 🐙 **GitHub**: [Jimy82](https://github.com/Jimy82)
 
-Si lo prefieres, también puedes escribirme directamente desde el formulario de contacto (si decides agregarlo más adelante).
